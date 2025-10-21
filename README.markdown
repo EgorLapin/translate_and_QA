@@ -83,4 +83,5 @@
 - `NSUTasks_GenAI_1_02`
 - `Bidirectional_translation_with_editing`
 - `Lab1_develop_AI`
-   А также библиотеки, которые указаны в requirements.txt вместе с вышеуказанными репозиториями
+
+А также библиотеки, которые указаны в requirements.txt вместе с вышеуказанными репозиториями
