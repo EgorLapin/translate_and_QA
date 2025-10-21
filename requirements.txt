@@ -1,0 +1,9 @@
+git+https://github.com/EgorLapin/NSUTasks_GenAI_1_02.git@main
+git+https://github.com/EgorLapin/Bidirectional_translation_with_editing.git@main
+git+https://github.com/EgorLapin/Lab1_develop_AI.git@main
+transformers==4.56.1
+torch==2.8.0
+sentencepiece>=0.1.99
+requests>=2.28.0
+numpy>=1.21.0
+sacremoses>=0.0.53
